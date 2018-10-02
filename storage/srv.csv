@@ -1,0 +1,2 @@
+Hostname,IpAddress,SystemUptime,MemTotal,MemFree,LoadAverage,DiskTotal,DiskUsed,http,mysql,http_est,eth0_tx,eth0_rx
+shaper.javra.com,10.0.1.8, 23days:7hours:02minutes, 1919936, 16508, 0.00, 490G, 20%, open, closed, 0, 270233, 1872433
